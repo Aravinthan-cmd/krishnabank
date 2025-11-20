@@ -2,14 +2,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Krishna Bank - Home check2</title>
+    <title>Krishna Bank - Home check33</title>
 </head>
 <body>
-<h1>Krishna Bank</h1>
+<h1>Krishna Bank under test</h1>
 <p>This is a sample Java 8 web application deployed on Tomcat using Maven.</p>
 
 <ul>
-    <li><a href="welcome">View Sample Account Details</a></li>
+    <li><a href="welcome Krishna">View Sample Account Details</a></li>
 </ul>
 
 </body>
